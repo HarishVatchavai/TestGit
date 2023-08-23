@@ -8,8 +8,11 @@ namespace ConsoleApp1
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
+            string name = "Harish";
+            Console.WriteLine(name);
         }
     }
 }
